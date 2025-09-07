@@ -12,7 +12,7 @@
 
 </td>
 <td>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJueTE5YjFjNjJyYnVqemd1NDJ0bXhscGkyNGVlZDlvMjN5ZnZjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJueTE5YjFjNjJyYnVqemd1NDJ0bXhscGkyNGVlZDlvMjN5ZnZjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="153"/>
 </td>
 </tr>
 </table>
