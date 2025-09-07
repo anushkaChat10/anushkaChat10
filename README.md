@@ -1,12 +1,22 @@
 ## 👋 Hi, I'm Anushka!
 
+<table>
+<tr>
+<td>
+
 💻 Computer Science & Engineering student at Vellore Institute of Technology</br>
 🧠 Passionate about Machine Learning, Artificial Intelligence, and Web Development</br>
 📊 Exploring the world of Data Analytics and storytelling with data</br>
 🌱 Always learning, building, and experimenting with new technologies</br>
 ⚡ On a mission to turn ideas into impactful projects</br>
 
----
+</td>
+<td>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJueTE5YjFjNjJyYnVqemd1NDJ0bXhscGkyNGVlZDlvMjN5ZnZjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250"/>
+</td>
+</tr>
+</table>
+
 
 ## 📊 GitHub Stats:
 ![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkaChat10&show_icons=true&theme=jolly)<br/>
