@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Anushka!
+## Hi, I'm Anushka! 
+<img src="https://media.baamboozle.com/uploads/images/217204/1656841950_217095_gif-url.gif" width="25" style="vertical-align: middle; margin-left: 4px;" />
 
 <table>
 <tr>
